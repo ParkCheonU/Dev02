@@ -49,6 +49,10 @@ div#wrap {
     margin: 90px -40px;
   }
 
+  .mg03 {
+    margin: 190px -40px;
+  }
+
   button {
     width: 90px;
     height: 35px;
@@ -80,3 +84,5 @@ div#wrap {
     color: black;
     font-size: 16px;
   }
+
+  
